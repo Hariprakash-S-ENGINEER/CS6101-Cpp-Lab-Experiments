@@ -1,0 +1,8 @@
+Sample output (g++ C++17; timing values vary by computer, compiler, and optimization settings)
+
+Perfect Forwarding Result: Perfect Forwarding Example
+
+Copy Operation Time: 25 milliseconds
+Move Operation Time: 8 milliseconds
+
+The timing numbers are illustrative. Run main.cpp on your system for local measurements.
