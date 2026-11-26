@@ -1,0 +1,8 @@
+Sample output (g++ C++17)
+
+Custom Stack: 120 us
+STL Stack: 180 us
+Custom Queue: 100 us
+STL Queue: 160 us
+
+Timing values are illustrative. They vary by machine, compiler, and system load; run main.cpp to obtain local measurements.
