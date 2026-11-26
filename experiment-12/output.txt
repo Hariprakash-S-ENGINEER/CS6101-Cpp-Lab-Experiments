@@ -1,0 +1,38 @@
+MINI FILE SYSTEM SIMULATOR
+1. Add File
+2. Display Files
+3. Exit
+Enter your choice: 1
+Enter File Name: notes.txt
+Enter File Size (KB): 120
+File record added successfully.
+
+MINI FILE SYSTEM SIMULATOR
+1. Add File
+2. Display Files
+3. Exit
+Enter your choice: 1
+Enter File Name: data.bin
+Enter File Size (KB): 256
+File record added successfully.
+
+MINI FILE SYSTEM SIMULATOR
+1. Add File
+2. Display Files
+3. Exit
+Enter your choice: 2
+
+--- File System Records ---
+File Name : notes.txt
+File Size : 120 KB
+--------------------------
+File Name : data.bin
+File Size : 256 KB
+--------------------------
+
+MINI FILE SYSTEM SIMULATOR
+1. Add File
+2. Display Files
+3. Exit
+Enter your choice: 3
+Exiting File System Simulator...
