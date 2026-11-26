@@ -1,0 +1,15 @@
+Sample output (g++ C++17)
+
+--- Manual RAII owner ---
+Resource acquired
+Resource is being used
+Resource released
+--- unique_ptr ---
+Resource acquired
+Resource is being used
+Resource released
+--- shared_ptr ---
+Resource acquired
+Resource is being used
+Shared pointer count: 2
+Resource released
